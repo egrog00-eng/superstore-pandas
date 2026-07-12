@@ -72,9 +72,7 @@
 
 ## Структура проекта
 
-Superstore-Pandas/
-│
-├── train.csv # исходный датасет
-├── code.py # код анализа данных
-├── category_region.csv # результат сводной таблицы
-└── readme.md # описание проекта
+- train.csv # исходный датасет
+- code.py # код анализа данных
+- category_region.csv # результат сводной таблрицы
+- readme.md # описание проекта
